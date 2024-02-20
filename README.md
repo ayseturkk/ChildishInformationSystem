@@ -1,4 +1,4 @@
-# ChildishInformationSystem
+# Childish
 A rapid and dependable solution for families who wanted to find new furnitures for their children 
 without paying.With exchange their furnitures with other users on the platform or donating, 
 CHILDISH aims sustainability and provide necessary products without any payment for families who 
